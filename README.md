@@ -85,3 +85,11 @@ Returns the number of characters printed (excluding the null terminator).
 - C compiler (cc/gcc/clang)
 - Standard C library headers
 - Unix-like system (for `write` system call)
+
+## 📝 License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+This project is licensed under the MIT License.  
+See the [LICENSE](LICENSE) file for more details.  
+© 2025 Fabio Silva
