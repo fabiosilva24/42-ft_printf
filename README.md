@@ -92,4 +92,4 @@ Returns the number of characters printed (excluding the null terminator).
 
 This project is licensed under the MIT License.  
 See the [LICENSE](LICENSE) file for more details.  
-© 2025 Fabio Silva
+© 2025 Fábio Bastos
